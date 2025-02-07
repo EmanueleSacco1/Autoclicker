@@ -35,14 +35,6 @@ Tired of clicking repeatedly? Want to automate tedious tasks? **ManuLifts' AutoC
 * The auto-clicker simulates mouse clicks, so it may interfere with other applications.
 * Use the auto-clicker responsibly.
 
-## Contribute
-
-If you have ideas to improve ManuLifts' AutoClicker, don't hesitate to contribute! Open an issue or a pull request on GitHub.
-
-## License
-
-[Add the license for your project here, e.g., MIT License]
-
 ## Acknowledgements
 
 Special thanks to [Add any acknowledgements here].
